@@ -43,7 +43,7 @@ Next, you need to install the required npm packages. You will need to do this bo
 ```
 cd themes/starter
 npm install
-cd ../watea
+cd ../ssc
 npm install
 ```
 
